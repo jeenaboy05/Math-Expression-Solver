@@ -1,2 +1,2 @@
-# Math-Expression-Solver
+# math-expression-solver
 Solves given infix math expression.
